@@ -15,3 +15,7 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 ## Docker setup:
 + https://www.jetson-ai-lab.com/tutorials/ssd-docker-setup/
 
+## Start using:
++ I will go with the easiest, which is Ollama as locally installed (not containerized)
++ Plus the WebUI to run as container
++ https://www.jetson-ai-lab.com/tutorials/ollama/
