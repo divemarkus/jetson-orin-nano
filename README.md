@@ -16,6 +16,14 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + https://www.jetson-ai-lab.com/tutorials/ssd-docker-setup/
 
 ## Start using:
++ You can pick any models to use and download
++ Here's the most popular according to search
++ TensorRT - anything based on this will be much more optimized
++ CUDA - this is base
+  
+## Ollama:
 + I will go with the easiest, which is Ollama as locally installed (not containerized)
 + Plus the WebUI to run as container
 + https://www.jetson-ai-lab.com/tutorials/ollama/
++ The following is highly optimized for NVIDIA's Ampere architecture and run very fast in Ollama
++ Llama 3.2 1B & 3B: These are the current "gold standard" for small edge devices
