@@ -34,3 +34,6 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + https://www.jetson-ai-lab.com/tutorials/ollama/
 + The following is highly optimized for NVIDIA's Ampere architecture and run very fast in Ollama
 + Llama 3.2 1B & 3B: These are the current "gold standard" for small edge devices
+
+## Frigate NVR:
++ https://wiki.seeedstudio.com/deploy_frigate_on_jetson/
