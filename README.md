@@ -8,8 +8,10 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + If setting-up with Ubuntu host, a female jumper for pins number 9 & 10 is required
 + https://www.amazon.com/dp/B0DSZWFS1V?ref=ppx_yo2ov_dt_b_fed_asin_title
 
-## Setup procedure using Ubuntu host:
-+ I have an Ubuntu 22.04 computer, so I'll be using this route
+## SDK Manager procedure using Ubuntu host:
++ I have an Ubuntu 22.04 computer, so I'll be using this route. Should take over an hour, depending on your selection
 + https://www.jetson-ai-lab.com/tutorials/initial-setup-jetson-orin-nano/
-+ 
+
+## Docker setup:
++ https://www.jetson-ai-lab.com/tutorials/ssd-docker-setup/
 
