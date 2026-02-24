@@ -20,6 +20,13 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + Here's the most popular according to search
 + TensorRT - anything based on this will be much more optimized
 + CUDA - this is base
++ https://www.nomic.ai/gpt4all
++ https://github.com/nomic-ai/gpt4all
++ https://openclaw.ai/
++ https://clawhub.ai/https://clawhub.ai/
++ https://openrouter.ai/
++ https://openrouter.ai/models?order=most-popular
++ https://www.jetson-ai-lab.com/tutorials/#all-tutorials
   
 ## Ollama:
 + I will go with the easiest, which is Ollama as locally installed (not containerized)
