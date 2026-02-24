@@ -17,6 +17,7 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 
 ## Start using:
 + You can pick any models to use and download
++ https://www.jetson-ai-lab.com/models/
 + Here's the most popular according to search
 + TensorRT - anything based on this will be much more optimized
 + CUDA - this is base
