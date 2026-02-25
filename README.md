@@ -35,6 +35,18 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + https://www.jetson-ai-lab.com/tutorials/ollama/
 + The following is highly optimized for NVIDIA's Ampere architecture and run very fast in Ollama
 + Llama 3.2 1B & 3B: These are the current "gold standard" for small edge devices
++ Install Ollama (native):
+``` 
+curl -fsSL https://ollama.com/install.sh | sh
+```
++ Pull a small VLM-capable model:
+``` 
+ollama pull gemma3:4b
+```
++ Run ollama using terminal by typing 'ollama'
++ Run ollama using webui, see docker compose file
++ Once the docker files and container is running, point Web browser to http://x.x.x.x:8080
++ Credentials are all fake
 
 ## Frigate NVR:
 + https://wiki.seeedstudio.com/deploy_frigate_on_jetson/
