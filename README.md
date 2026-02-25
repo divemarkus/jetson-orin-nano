@@ -30,7 +30,7 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + https://www.jetson-ai-lab.com/tutorials/#all-tutorials
   
 ## Ollama:
-+ I will go with the easiest, which is Ollama as locally installed (not containerized)
++ I will go with the easiest, which is Ollama as locally installed
 + Plus the WebUI to run as container
 + https://www.jetson-ai-lab.com/tutorials/ollama/
 + The following is highly optimized for NVIDIA's Ampere architecture and run very fast in Ollama
@@ -43,7 +43,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ``` 
 ollama pull gemma3:4b
 ```
-+ Run ollama using terminal by typing 'ollama'
++ Run ollama using terminal by typing 'ollama' or check CLI reference https://docs.ollama.com/cli
 + Run ollama using webui, see docker compose file
 + Once the docker files and container is running, point Web browser to http://x.x.x.x:8080
 + Credentials are all fake
