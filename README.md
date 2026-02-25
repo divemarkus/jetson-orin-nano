@@ -30,7 +30,7 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 + https://www.jetson-ai-lab.com/tutorials/#all-tutorials
   
 ## Ollama:
-+ I will go with the easiest, which is Ollama as locally installed
++ Ollama is easiest to locally install
 + Plus the WebUI to run as container
 + https://www.jetson-ai-lab.com/tutorials/ollama/
 + The following is highly optimized for NVIDIA's Ampere architecture and run very fast in Ollama
@@ -39,7 +39,7 @@ Repo of code and wiki, setting-up Jetson Orin Nano Super
 ``` 
 curl -fsSL https://ollama.com/install.sh | sh
 ```
-+ Pull a small VLM-capable model:
++ Pull a small VLM-capable model (below is 4b):
 ``` 
 ollama pull gemma3:4b
 ```
