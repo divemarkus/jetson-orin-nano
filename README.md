@@ -47,6 +47,7 @@ ollama pull gemma3:4b
 + Run ollama using webui, see docker compose file
 + Once the docker files and container is running, point Web browser to http://x.x.x.x:8080
 + Credentials are all fake
++ Add a 16GB swapfile to fast storage if having memory error, as the Jetson Orin Nano only has 8GB RAM
 
 ## Frigate NVR:
 + https://wiki.seeedstudio.com/deploy_frigate_on_jetson/
