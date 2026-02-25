@@ -44,7 +44,10 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama pull gemma3:4b
 ```
 + Run ollama using terminal by typing 'ollama' or check CLI reference https://docs.ollama.com/cli
-+ Run ollama using webui, see docker compose file
++ Run ollama using webui, see docker compose file or execute command:
+```
+docker run -it --rm --network=host -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui ghcr.io/open-webui/open-webui:main
+```
 + Once the docker files and container is running, point Web browser to http://x.x.x.x:8080
 + Credentials are all fake
 + Add a 16GB swapfile to fast storage if having memory error, as the Jetson Orin Nano only has 8GB RAM
