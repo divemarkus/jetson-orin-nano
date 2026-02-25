@@ -51,6 +51,9 @@ docker run -it --rm --network=host -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --n
 + Once the docker files and container is running, point Web browser to http://x.x.x.x:8080
 + Credentials are all fake
 + Add a 16GB swapfile to fast storage if having memory error, as the Jetson Orin Nano only has 8GB RAM
+```
+sudo dd if=/dev/zero of=/swapfile bs=1M count=16384 && sudo mkswap /swapfile && sudo swapon /swapfile && echo '/swapfile' >> /etc/fstab
+```
 
 ## Frigate NVR:
 + https://wiki.seeedstudio.com/deploy_frigate_on_jetson/
