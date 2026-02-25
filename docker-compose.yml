@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    environment:
+      OLLAMA_BASE_URL: "http://127.0.0.1:11434"
