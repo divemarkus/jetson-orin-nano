@@ -24,10 +24,10 @@ Here are the links to purchase the necessary components:
 - **Jetson Orin Nano Super Dev Kit**:  
   [Amazon Link](https://www.amazon.com/dp/B0BZJTQ5YP?th=1)
 
-- **Storage (NVMe Recommended)**:  
+- **Storage (NVMe Gen4)**:  
   [Amazon Link](https://www.amazon.com/dp/B0B217LZBG?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
-- **Female Jumper for Ubuntu Host Setup**:  
+- **Female Jumper for pins# 9 & 10 on the Jetson**:  
   [Amazon Link](https://www.amazon.com/dp/B0DSZWFS1V?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 ---
