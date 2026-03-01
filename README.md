@@ -159,7 +159,7 @@ This setup allows you to leverage the power of AI for real-time object detection
 
 - **GitHub Repositories**:  
   Explore repositories dedicated to Jetson Orin Nano projects on GitHub.
-  - [Jetson Orin Nano Projects](https://github.com/topics/jetson-orin-nano)
+  [Jetson Orin Nano Projects](https://github.com/topics/jetson-orin-nano)
 
 ---
 
