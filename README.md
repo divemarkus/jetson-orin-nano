@@ -165,11 +165,5 @@ This setup allows you to leverage the power of AI for real-time object detection
 
 ## Conclusion
 
-The Nvidia Jetson Orin Nano Super Dev Kit is an excellent choice for machine learning enthusiasts and professionals looking to deploy AI models on edge devices. By following this guide, you'll be able to set up your device efficiently and start exploring the vast potential of machine learning with Jetson Orin Nano.
-
-
-
-## Conclusion
-
-The Nvidia Jetson Orin Nano Super Dev Kit is an excellent choice for machine learning enthusiasts and professionals looking to deploy AI models on edge devices. By following this guide, you'll be able to set up your device efficiently and start exploring the vast potential of machine learning with Jetson Orin Nano.
+The Nvidia Jetson Orin Nano Super Dev Kit is an excellent choice for machine learning enthusiasts mostly looking for low power draws and small models.
 
