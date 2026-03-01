@@ -77,7 +77,7 @@ The Jetson Orin Nano supports a wide range of machine learning models. Here are 
 
 - **CUDA-Based Models**:  
   CUDA provides the foundational GPU acceleration libraries for deep learning.
-  - [CUDA Models](https://www.nomic.ai/gpt4all)
+  - [CUDA Models](](https://developer.nvidia.com/cuda/)
 
 ### Model Hosting Platforms
 - **OpenRouter AI**:  
