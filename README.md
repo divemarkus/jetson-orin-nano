@@ -32,11 +32,12 @@ Here are the links to purchase the necessary components:
 
 ---
 
-## SDK Setup Using Ubuntu Host
+## SDK Manager Setup Using Ubuntu Host
 
 ### Prerequisites
 - **Ubuntu 22.04 or later** installed on your host machine.
 - Internet connection for downloading necessary software.
+- USB Ubuntu host to USB-C Jetson.
 
 ### Installation Steps
 Follow the comprehensive guide provided by Jetson AI Lab:
